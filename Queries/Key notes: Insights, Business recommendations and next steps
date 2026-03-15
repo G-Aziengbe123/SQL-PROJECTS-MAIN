@@ -1,1 +1,7 @@
-
+DataCleaning
+data_cleaning.sql → Script that handles:
+Removing duplicate records
+Standardizing column formats (e.g., dates, text cases)
+Handling NULL values
+Renaming columns for clarity
+Filtering out invalid or inconsistent entries
