@@ -1,3 +1,6 @@
+Currently, it includes a **Data Cleaning project** that demonstrates how raw datasets can be transformed into clean, structured tables ready for analysis.
+
+
 DataCleaning
 data_cleaning.sql → Script that handles:
 Removing duplicate records
