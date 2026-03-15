@@ -8,3 +8,38 @@ Standardizing column formats (e.g., dates, text cases)
 Handling NULL values
 Renaming columns for clarity
 Filtering out invalid or inconsistent entries
+
+
+*Data Exploratory Project*
+
+About the Project:
+
+This project performs Exploratory Data Analysis (EDA) on a global layoffs dataset using SQL to understand workforce reduction trends across companies, countries, and time periods.
+
+The analysis examines total layoffs, percentage layoffs, yearly and monthly trends, company rankings, and cumulative layoffs to identify patterns that may indicate financial instability, market downturns, or restructuring activities.
+
+Key Insights:
+
+A small number of companies account for a large share of total layoffs.
+Some companies laid off 100% of their workforce, indicating shutdowns or severe restructuring.
+Layoffs are higher in certain countries, showing regional economic pressure.
+Layoffs increased during specific years and months, suggesting market or funding downturns.
+Layoffs occur across different company stages, including startups and mature companies.
+Cumulative analysis shows layoffs increasing over time rather than occurring randomly.
+
+Problems Identified:
+
+Poor workforce planning: Sudden high layoffs suggest companies were not prepared for financial or market changes.
+Financial instability and funding dependence: Companies with high layoffs may rely heavily on external funding or unstable revenue.
+Economic or industry downturn impact: High layoffs in certain countries or periods indicate vulnerability to market conditions.
+Lack of early risk monitoring: Large layoffs often happen after problems become severe instead of being detected early.
+Over-expansion during growth periods: Companies may hire too quickly during growth and later reduce staff when conditions change.
+
+Business Solutions / Recommendations:
+
+Implement better workforce forecasting: Use data analysis to plan hiring based on realistic growth projections.
+Strengthen financial planning and cash flow management: Companies should maintain reserves to survive funding or revenue declines.
+Diversify revenue and funding sources: Relying on one investor or market increases the risk of layoffs.
+Use data dashboards for continuous monitoring: Regular tracking of workforce, revenue, and funding metrics can help detect risk early.
+Adopt gradual restructuring instead of sudden layoffs: Phased adjustments reduce operational disruption and protect company reputation.
+Align hiring strategy with long-term business goals: Avoid over-hiring during boom periods without sustainable demand.
